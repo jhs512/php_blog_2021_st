@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "게시물 리스트";
+$pageTitle = "게시물 리스트 입니다.";
 ?>
 <?php require_once __DIR__ . "/../head.php"; ?>
 
